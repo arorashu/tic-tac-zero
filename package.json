@@ -1,0 +1,15 @@
+{
+  "name": "tic-tac-zero",
+  "version": "1.0.0",
+  "description": "A zero knowledge Neural Network that learns to plays Tic Tac Toe from scratch",
+  "main": "index.js",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
